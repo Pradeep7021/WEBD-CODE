@@ -1,0 +1,33 @@
+
+p {
+    color : blue;
+    font-size: 90px ;
+ }
+
+ h4 {
+    font-size: 50px;
+ }
+
+ 
+ h1 {
+   font-size: 100px;
+}
+
+
+
+ /* h4{
+    text-transform: uppercase;
+ } */
+
+
+.uppercase {
+    text-transform: uppercase;
+}
+
+.cursive {
+   font-family: cursive ;
+}
+
+#blog-disc {
+   color : #ff5722 ; 
+}
